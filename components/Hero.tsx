@@ -31,7 +31,7 @@ function Hero() {
             </h2>
             <TextGenerateEffect 
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming concepts into Seamless experiences"
+            words="Transforming concepts into Seamless User experiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
               Hi, I'm Akansha , a passionate web developer based at Gurgaon.
